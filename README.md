@@ -12,7 +12,7 @@
 
     Swaggo: Uma ferramenta de documentação automática para APIs em Go.
 
-    MySQL: O banco de dados usado para testes.
+    SQLite: O banco de dados usado para testes.
 
     RabbitMQ: Usado para comunicação assíncrona entre diferentes partes do sistema.
 
